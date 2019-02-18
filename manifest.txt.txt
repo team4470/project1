@@ -1,0 +1,10 @@
+httpd-2-2-0 : Directory contains Apache 2.2 source code.
+apache-install.sh : This script automates all other scripts for a hands free Apache install.
+script1.sh : This script updates necessary system software to install Apache.
+script2.sh : This script installs Apache.
+script3.sh : This script configures the firewall. 
+script4.sh : This script generates a key.
+script5.sh : This script creates webpages.
+script6.sh : This script configures Apache.
+script7.sh : This script starts Apache.
+httpd.conf : This file contains the altered Apache configuration.
